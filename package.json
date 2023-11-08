@@ -1,0 +1,16 @@
+{
+  "name": "unwritten-politics-point-wxzlm",
+  "productName": "unwritten-politics-point-wxzlm",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Diseño",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "26.2.2"
+  }
+}
